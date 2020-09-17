@@ -1,2 +1,2 @@
-# PHP---Juego-Piedra-Papel-o-Tijera
+# PHP-Juego
 Juego basico de Piedra, Papel o Tijera
